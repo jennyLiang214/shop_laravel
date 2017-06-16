@@ -1,0 +1,14 @@
+/* 首页css */
+#js_climit_li{
+    height: 431px;
+}
+
+.seckill-price{
+    padding-left: 10px;
+    color: #ccc !important;
+}
+
+.intDiff strong{
+    color: #c40000;
+    font-size: 20px;
+}

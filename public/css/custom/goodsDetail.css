@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.in-no-stock{ border: 2px dotted #ccc !important; color: #ccc !important; }
+
+.activity{
+    height:35px;
+    background: #c40000 !important;
+    color: #FFF;
+    line-height: 35px !important;
+}
+
+.activity span{
+    float: right;
+    padding-right: 10px;
+}
+
+.activity h3{
+    line-height: 35px !important;
+}

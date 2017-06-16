@@ -1,0 +1,2 @@
+[2017-05-17 11:42:26] signin.INFO: ID为2的用户,在2017-05-17,11:42:26进行绑定账号操作,IP地址为192.168.33.1: {"loginName":"15911187401","newCode":"729469","_token":"KCMQNPBsuw7tpHXrfKruJX8Tnx8SDUBR4KrG4mTD","bindType":"1","bindStatus":"2","url":"http://www.laramall.com/home/safety/bindLoginUser"} 
+[2017-05-17 11:56:09] signin.INFO: ID为2的用户,在2017-05-17,11:56:09进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 

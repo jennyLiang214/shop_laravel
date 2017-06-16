@@ -1,0 +1,2 @@
+[2017-04-19 20:24:58] signin.INFO: ID为的用户,在2017-04-19,20:24:58进行添加权限操作,IP地址为172.18.0.1: {"_token":"OAahIiJ7n8EDQsynV1GvK1a0iDmcFMW8V9c3MgpZ","name":"admin","display_name":"后台管理员","description":"adfasdfasdf","url":"http://laramall.dev/admin/acl"} 
+[2017-04-19 20:26:22] signin.INFO: ID为5的用户,在2017-04-19,20:26:22进行添加权限操作,IP地址为172.18.0.1: {"_token":"OAahIiJ7n8EDQsynV1GvK1a0iDmcFMW8V9c3MgpZ","name":"suerpadmin","display_name":"超级管理员","description":"撒的发生的发","url":"http://laramall.dev/admin/acl"} 

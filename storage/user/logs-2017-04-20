@@ -1,0 +1,10 @@
+[2017-04-20 08:53:32] signin.INFO: ID为1的用户,在2017-04-20,08:53:32进行重置密码操作,IP地址为192.168.33.1: {"_token":"2YEXziOKZWhxBBLQM2zGPypJAXHBIHN8kV6lXK2z","oldPassword":"123123123","newPassword":"123123","newPassword_confirmation":"123123","url":"http://www.laramall.com/home/safety/modifyChangePassword"} 
+[2017-04-20 09:51:44] signin.INFO: ID为1的用户,在2017-04-20,09:51:44进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
+[2017-04-20 09:53:38] signin.INFO: ID为1的用户,在2017-04-20,09:53:38进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
+[2017-04-20 10:54:29] signin.INFO: ID为1的用户,在2017-04-20,10:54:29进行更新个人信息操作,IP地址为192.168.33.1: {"_token":"2YEXziOKZWhxBBLQM2zGPypJAXHBIHN8kV6lXK2z","nickname":"男神","realname":"张宇吵","sex":"1","year":"2014","month":"5","day":"7","url":"http://www.laramall.com/home/userInfo/updateMessage"} 
+[2017-04-20 10:54:41] signin.INFO: ID为1的用户,在2017-04-20,10:54:41进行更新个人信息操作,IP地址为192.168.33.1: {"_token":"2YEXziOKZWhxBBLQM2zGPypJAXHBIHN8kV6lXK2z","nickname":"男神","realname":"张宇吵","sex":"1","year":"2013","month":"8","day":"8","url":"http://www.laramall.com/home/userInfo/updateMessage"} 
+[2017-04-20 10:54:53] signin.INFO: ID为1的用户,在2017-04-20,10:54:53进行更新个人信息操作,IP地址为192.168.33.1: {"_token":"2YEXziOKZWhxBBLQM2zGPypJAXHBIHN8kV6lXK2z","nickname":"汪汪","realname":"张宇吵","sex":"1","year":"2013","month":"8","day":"8","url":"http://www.laramall.com/home/userInfo/updateMessage"} 
+[2017-04-20 20:55:20] signin.INFO: ID为1的用户,在2017-04-20,20:55:20进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
+[2017-04-20 22:55:54] signin.INFO: ID为1的用户,在2017-04-20,22:55:54进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
+[2017-04-20 23:31:26] signin.INFO: ID为1的用户,在2017-04-20,23:31:26进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
+[2017-04-20 23:44:27] signin.INFO: ID为1的用户,在2017-04-20,23:44:27进行退出登录操作,IP地址为192.168.33.1: {"url":"http://www.laramall.com/home/logout"} 
